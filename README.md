@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**kingcodeguru/kingcodeguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My top languages
+![Liel Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kingcodeguru&layout=compact&theme=radical)
+# My repositories
+## AI Project 🤖
+As part of the course "Into to Artificial Intelligence", I build a CNN model that successfuly classify images of various fruits and vegtables.  
+![Try it yourself!](https://github.com/kingcodeguru/AI-Project)
+## Cyber Security Project 🌐
+As part of the 5 units of cyber security, I developed a working system with multi-client server providing chat, file passing and chess playing services, and commited a malicious act of ARP spoofing and MITM attack on the connection between the server and a client - and later on I had protected from this attack via encryption.  
+I have yet to put a repository.
+# Yaniv Counter 🃏
+Did you ever played Yaniv and you felt like counting points is complex? And you wished you had a computer program to do the computation for you? I have the thing for you! 
+![Try it out!](https://github.com/kingcodeguru/Yaniv-Counter-WebGame)
